@@ -1,11 +1,11 @@
 ﻿{
-	"version": 1480851173,
+	"version": 1480851905,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"images/background.png",
-		"images/trash-sheet0.png",
+		"images/trash1-sheet0.png",
 		"images/bin-sheet0.png",
 		"images/gobackground.png",
 		"images/gameover-sheet0.png",
